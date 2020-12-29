@@ -1,0 +1,12 @@
+\babel@toc {french}{}
+\contentsline {figure}{\numberline {1}{\ignorespaces Structure d'un RBM\relax }}{2}% 
+\contentsline {figure}{\numberline {2}{\ignorespaces Caract\`eres g\'en\'er\'es par le RBM suite \`a l'apprentissage du caract\`ere.\relax }}{4}% 
+\contentsline {figure}{\numberline {3}{\ignorespaces Caract\`eres g\'en\'er\'es par le RBM suite \`a l'apprentissage d'un certain nombre de caract\`eres.\relax }}{5}% 
+\contentsline {figure}{\numberline {4}{\ignorespaces Structure d'un DBN\relax }}{6}% 
+\contentsline {figure}{\numberline {5}{\ignorespaces Caract\`eres g\'en\'er\'es par le DBN suite \`a l'apprentissage du caract\`ere.\relax }}{7}% 
+\contentsline {figure}{\numberline {6}{\ignorespaces Caract\`eres g\'en\'er\'es par le DBN suite \`a l'apprentissage d'un certain nombre de caract\`eres. Variance = 0.01\relax }}{8}% 
+\contentsline {figure}{\numberline {7}{\ignorespaces Caract\`eres g\'en\'er\'es par le DBN suite \`a l'apprentissage d'un certain nombre de caract\`eres. Variance = 1\relax }}{9}% 
+\contentsline {figure}{\numberline {8}{\ignorespaces Exemple de perte pendant l'entrainement\relax }}{11}% 
+\contentsline {figure}{\numberline {9}{\ignorespaces Taux d'erreur en fonction du nombre de couches pour un r\'eseau avec des couches latentes de taille 200\relax }}{12}% 
+\contentsline {figure}{\numberline {10}{\ignorespaces Taux d'erreur en fonction du nombre de neurones pour un r\'eseau avec 2 couches latente\relax }}{13}% 
+\contentsline {figure}{\numberline {11}{\ignorespaces Taux d'erreur en fonction de la quantit\'e de donn\'ees\relax }}{14}% 
